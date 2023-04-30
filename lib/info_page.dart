@@ -60,6 +60,7 @@ class JapanPage extends StatelessWidget {
             name: 'Kyoto')
     );
 
+
     var listGenerator = [
       GestureDetector(
         onTap: null,
